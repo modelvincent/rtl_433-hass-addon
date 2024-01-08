@@ -7,6 +7,6 @@
     "i386": "homeassistant/i386-base:3.18"
   },
   "args": {
-    "rtl433GitRevision": "master"
+    "rtl433GitRevision": 24.01
   }
 }
